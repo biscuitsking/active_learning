@@ -1,2 +1,2 @@
 # active_learning
-active learning 应用
+active learning 的指标计算，训练交互过程
